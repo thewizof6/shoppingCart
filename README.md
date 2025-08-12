@@ -1,0 +1,1 @@
+creating the core functionality used for a storefront application. The visual of the storefront and the JavaScript necessary to connect the code you will write to that visual has already been created.
